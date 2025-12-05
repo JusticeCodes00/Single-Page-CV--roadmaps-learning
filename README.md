@@ -33,3 +33,5 @@ The next project will add CSS to actually make this look like the template. I'm 
 ---
 
 Built as part of the [roadmap.sh](https://roadmap.sh/projects/single-page-cv) frontend projects.
+
+[view live](https://justicecodes00.github.io/Single-Page-CV--roadmaps-learning/)
